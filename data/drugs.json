@@ -1,0 +1,58 @@
+[
+  {
+    "drug_id": "D001",
+    "name": "Warfarin",
+    "min_age": 18,
+    "max_age": 75,
+    "gender_restriction": "None",
+    "category": "Anticoagulant"
+  },
+  {
+    "drug_id": "D002",
+    "name": "Aspirin",
+    "min_age": 16,
+    "max_age": 100,
+    "gender_restriction": "None",
+    "category": "NSAID"
+  },
+  {
+    "drug_id": "D003",
+    "name": "Ibuprofen",
+    "min_age": 12,
+    "max_age": 100,
+    "gender_restriction": "None",
+    "category": "NSAID"
+  },
+  {
+    "drug_id": "D004",
+    "name": "Sildenafil",
+    "min_age": 18,
+    "max_age": 100,
+    "gender_restriction": "Male",
+    "category": "PDE5 Inhibitor"
+  },
+  {
+    "drug_id": "D005",
+    "name": "Levonorgestrel",
+    "min_age": 12,
+    "max_age": 55,
+    "gender_restriction": "Female",
+    "category": "Contraceptive"
+  },
+  {
+    "drug_id": "D006",
+    "name": "Lisinopril",
+    "min_age": 18,
+    "max_age": 100,
+    "gender_restriction": "None",
+    "category": "ACE Inhibitor"
+  },
+  {
+    "drug_id": "D007",
+    "name": "Potassium",
+    "min_age": 0,
+    "max_age": 100,
+    "gender_restriction": "None",
+    "category": "Supplement"
+  }
+]
