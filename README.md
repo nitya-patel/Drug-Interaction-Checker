@@ -11,7 +11,10 @@
   https://drug-interaction-checkergit-fcajbg3co6q2sau8yzvmar.streamlit.app  
 
 - **Demo Video:**  
-  https://drive.google.com/file/d/1nckD_cEFyZoki-L4pGuo__5lWj-zNgxk/view  
+  https://drive.google.com/file/d/1nckD_cEFyZoki-L4pGuo__5lWj-zNgxk/view
+
+- **PPT:**  
+  https://drive.google.com/drive/u/0/folders/1WE1aX-hNcBqTxMdXM3wpTw2JTMrKTCdC?q=sharedwith:public%20parent:1WE1aX-hNcBqTxMdXM3wpTw2JTMrKTCdC 
 
 ---
 
