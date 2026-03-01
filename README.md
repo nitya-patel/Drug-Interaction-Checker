@@ -3,6 +3,7 @@ Project Title
 Drug Interaction Checker with Graph-Based Conflict Detection
 
 Deployed link: drug-interaction-checkergit-fcajbg3co6q2sau8yzvmar.streamlit.app
+
 Demo video: https://drive.google.com/file/d/1nckD_cEFyZoki-L4pGuo__5lWj-zNgxk/view?usp=drive_link
 
 One-line project description:
